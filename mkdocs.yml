@@ -10,8 +10,8 @@ theme:
 
 docs_dir: docs/en
 
-repo_name: electron-userland/electron-webpack
-repo_url: 'https://github.com/electron-userland/electron-webpack'
+repo_name: WrathofthePast/electron-webpack
+repo_url: 'https://github.com/WrathofthePast/electron-webpack'
 edit_uri: ""
 dev_addr: 0.0.0.0:8000
 strict: true
